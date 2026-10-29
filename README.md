@@ -50,7 +50,7 @@ or newer. I used macOS with Python 3.11; the commands are the same on Linux. On 
 activate the environment with `.venv\Scripts\activate` instead.
 
 ```bash
-git clone <this repo>
+git clone https://github.com/oisheenandy0505/calibration-service.git
 cd calibration-service
 
 python3 -m venv .venv

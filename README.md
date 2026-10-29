@@ -463,9 +463,6 @@ Everything above can also be done without `curl`. Open http://127.0.0.1:8000/doc
 
 The docs page is generated from the code, so it always matches the real API.
 
-![Create in the docs UI](docs/screenshots/22-docs-create.png)
-![Tag filter in the docs UI](docs/screenshots/23-docs-tag-filter.png)
-
 ## 5. API reference
 
 | Method and path | Body / query | Success | Errors |
